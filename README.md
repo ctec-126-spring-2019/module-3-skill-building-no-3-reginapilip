@@ -6,3 +6,10 @@ Using functions, create JavaScript code that will generate lyrics to a song. You
 
 Starter code has been provided for you to use.
 
+## Grading Rubric
+
+| Item | Full Marks  | Partial Marks | No Marks |
+|:--|:--|:--|:--|
+| Functions were used to generate lyric groupings | 50 | 25 | 0 |
+| Lyrics were not repeated within functions that could have been placed in other functions | 25 | 13 | 0 |
+| Lyrics are displayed on the web page | 25 | 13 | 0 |
