@@ -1,4 +1,4 @@
-# CTEC 126 - Lab No. 4
+# CTEC 126 - Module 3 Skill Building No. 3
 
 ## Song Lyrics
 
@@ -8,8 +8,8 @@ Starter code has been provided for you to use.
 
 ## Grading Rubric
 
-| Item | Full Marks  | Partial Marks | No Marks |
-|:--|:--|:--|:--|
-| Functions were used to generate lyric groupings | 50 | 25 | 0 |
-| Lyrics were not repeated within functions that could have been placed in other functions | 25 | 13 | 0 |
-| Lyrics are displayed on the web page | 25 | 13 | 0 |
+| Item                                                                                     | Full Marks | Partial Marks | No Marks |
+| :--------------------------------------------------------------------------------------- | :--------- | :------------ | :------- |
+| Functions were used to generate lyric groupings                                          | 50         | 25            | 0        |
+| Lyrics were not repeated within functions that could have been placed in other functions | 25         | 13            | 0        |
+| Lyrics are displayed on the web page                                                     | 25         | 13            | 0        |
